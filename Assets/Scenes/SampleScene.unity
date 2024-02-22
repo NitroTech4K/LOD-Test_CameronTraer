@@ -485,17 +485,48 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3300225028752479297, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 85b93f5172dbda34ebde89e1f415dcc6, type: 2}
     - target: {fileID: 919132149155446097, guid: b890394b213678449a7a6185681fc391,
         type: 3}
       propertyPath: m_Name
       value: Trash_LOD
       objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_LODs.Array.data[0].screenRelativeHeight
+      value: 0.6485879
+      objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_LODs.Array.data[1].screenRelativeHeight
+      value: 0.37846938
+      objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_LODs.Array.data[2].renderers.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_LODs.Array.data[2].renderers.Array.data[1].renderer
+      value: 
+      objectReference: {fileID: 1414699815}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: -8700617353114198275, guid: b890394b213678449a7a6185681fc391, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b890394b213678449a7a6185681fc391, type: 3}
+--- !u!23 &1414699815 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 717429624128337407, guid: b890394b213678449a7a6185681fc391,
+    type: 3}
+  m_PrefabInstance: {fileID: 1414699814}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
