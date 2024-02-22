@@ -485,7 +485,27 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7946891971510481775, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6722811552849478843, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -3300225028752479297, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 85b93f5172dbda34ebde89e1f415dcc6, type: 2}
+    - target: {fileID: -2873132336632096971, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 85b93f5172dbda34ebde89e1f415dcc6, type: 2}
+    - target: {fileID: 717429624128337407, guid: b890394b213678449a7a6185681fc391,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -495,15 +515,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trash_LOD
       objectReference: {fileID: 0}
+    - target: {fileID: 2257180161721524841, guid: b890394b213678449a7a6185681fc391,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: b890394b213678449a7a6185681fc391,
         type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
-      value: 0.6485879
+      value: 0.32841682
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: b890394b213678449a7a6185681fc391,
         type: 3}
       propertyPath: m_LODs.Array.data[1].screenRelativeHeight
-      value: 0.37846938
+      value: 0.0398731
       objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: b890394b213678449a7a6185681fc391,
         type: 3}
